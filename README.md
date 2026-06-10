@@ -62,4 +62,5 @@ This project is built for learning backend development fundamentals including RE
 - Professional card design
 - Clean form UI for create/edit
 - Navigation header and footer
+---
 ⭐ If you like this project, feel free to star the repository!
